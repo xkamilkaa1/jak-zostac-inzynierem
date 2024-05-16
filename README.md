@@ -1,5 +1,5 @@
 # jak-zostac-inzynierem
-## chce do domu
+## cos tamu
 - raz
 - dwa
 - trzy
